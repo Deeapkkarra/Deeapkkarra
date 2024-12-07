@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deeapkkarra
+- 👋 Hi, I’m @Deepakkarra
 - 👀 I’m interested in ...AIML
 - 🌱 I’m currently learning ...aiml
 - 💞️ I’m looking to collaborate on ...AIML
